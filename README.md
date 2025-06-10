@@ -1,4 +1,4 @@
-# 🚀 Muhammad Developer - Portfolio Website
+# 🚀 Alfan Umar Faruq - Portfolio Website
 
 Portfolio website profesional untuk seorang Full-Stack Developer yang dibuat dengan teknologi modern dan design yang elegan.
 
