@@ -55,7 +55,7 @@ const Home = () => {
           {/* Social Links */}
           <div className="flex justify-center space-x-6">
             <a
-              href="https://github.com"
+              href="https://github.com/AlfanUmarFaruq"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white dark:bg-gray-800 rounded-full shadow-lg hover:shadow-xl text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transform hover:-translate-y-1 transition-all duration-200"
@@ -65,7 +65,7 @@ const Home = () => {
             </a>
             
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/alfan-umar-897aa72a4/"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 bg-white dark:bg-gray-800 rounded-full shadow-lg hover:shadow-xl text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transform hover:-translate-y-1 transition-all duration-200"
@@ -75,7 +75,7 @@ const Home = () => {
             </a>
             
             <a
-              href="mailto:developer@example.com"
+              href="mailto:alfanumar180902@gmail.com"
               className="p-3 bg-white dark:bg-gray-800 rounded-full shadow-lg hover:shadow-xl text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transform hover:-translate-y-1 transition-all duration-200"
               aria-label="Email Contact"
             >

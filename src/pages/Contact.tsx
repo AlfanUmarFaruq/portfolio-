@@ -39,8 +39,8 @@ const Contact = () => {
     {
       icon: <Mail className="h-6 w-6" />,
       title: 'Email',
-      value: 'muhammad.developer@email.com',
-      link: 'mailto:muhammad.developer@email.com'
+      value: 'alfanumar180902@gmail.com',
+      link: 'mailto:alfanumar180902@gmail.com'
     },
     {
       icon: <Phone className="h-6 w-6" />,
@@ -51,8 +51,8 @@ const Contact = () => {
     {
       icon: <MapPin className="h-6 w-6" />,
       title: 'Lokasi',
-      value: 'Jakarta, Indonesia',
-      link: 'https://maps.google.com'
+      value: 'Surakarta, Indonesia',
+      link: 'https://maps.app.goo.gl/wq7Snd32WhqcUysBA'
     }
   ]
 
@@ -60,28 +60,21 @@ const Contact = () => {
     {
       name: 'GitHub',
       icon: <Github className="h-6 w-6" />,
-      url: 'https://github.com/muhammad-dev',
+      url: 'https://github.com/AlfanUmarFaruq',
       color: 'gray',
       description: 'Lihat kode dan proyek open source'
     },
     {
       name: 'LinkedIn',
       icon: <Linkedin className="h-6 w-6" />,
-      url: 'https://linkedin.com/in/muhammad-developer',
+      url: 'https://www.linkedin.com/in/alfan-umar-897aa72a4/',
       color: 'blue',
       description: 'Terhubung secara profesional'
     },
     {
-      name: 'Twitter',
-      icon: <Twitter className="h-6 w-6" />,
-      url: 'https://twitter.com/muhammad_dev',
-      color: 'sky',
-      description: 'Ikuti update dan insights'
-    },
-    {
       name: 'WhatsApp',
       icon: <MessageCircle className="h-6 w-6" />,
-      url: 'https://wa.me/6281234567890',
+      url: 'https://wa.me/6282132582032',
       color: 'green',
       description: 'Chat langsung untuk diskusi cepat'
     }

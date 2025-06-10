@@ -83,7 +83,7 @@ const About = () => {
               <div className="relative">
                 <div className="w-80 h-80 rounded-2xl bg-gradient-to-r from-blue-500 to-purple-600 p-1 shadow-2xl">
                   <div className="w-full h-full rounded-2xl bg-gray-200 dark:bg-gray-700 flex items-center justify-center text-6xl font-bold text-gray-600 dark:text-gray-400">
-                    MD
+                    AU
                   </div>
                 </div>
                 {/* Floating Elements */}
@@ -98,10 +98,9 @@ const About = () => {
                 Tentang Saya
               </h1>
               <p className="text-lg text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
-                Halo! Saya Muhammad, seorang Full-Stack Developer yang passionate dalam menciptakan 
-                solusi digital inovatif. Dengan pengalaman 3+ tahun di industri teknologi, saya 
-                telah mengembangkan berbagai aplikasi web dan mobile yang membantu bisnis mencapai 
-                tujuan mereka.
+                Halo! Saya Alfan Umar Faruq, seorang Robotics Engineering yang passionate dalam menciptakan 
+                solusi inovatif. Dengan pengalaman 3+ tahun di industri teknologi, saya 
+                telah mengembangkan berbagai alat robotik dan iot dalam berbagai bidang.
               </p>
               <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 leading-relaxed">
                 Saya percaya bahwa teknologi harus mempermudah hidup manusia. Oleh karena itu, 
